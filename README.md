@@ -20,7 +20,7 @@ I connect business problems to working AI software: understanding customer requi
 
 ---
 
-## 🏗️ Forward Deployed Engineering
+## 🏗️ Agentic AI Engineering
 
 I work across the full AI solution lifecycle:
 
